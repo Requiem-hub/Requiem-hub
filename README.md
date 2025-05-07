@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Whats'up
+I am learning AI Coding and hope I can build something interesting.
+
 
 <!--
 **Requiem-hub/Requiem-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

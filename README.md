@@ -1,5 +1,9 @@
 ## Hi there 👋 Whats'up
-I am learning AI Coding and hope I can build something interesting.
+I help founders turn early ideas into market-ready MVPs — fast. Designed to launch, built to get real user feedback.  
+
+✔️ Mobile apps (iOS, Android, PWA) 
+✔️ Clean architecture & modern UX
+✔️ Proven builds: AI Brain Dump, Discover Micro-Hobby
 
 
 <!--
